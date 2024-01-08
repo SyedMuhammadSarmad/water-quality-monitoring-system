@@ -1,4 +1,8 @@
 # water-quality-monitoring-system
+ESP32
+
+![download](https://github.com/SyedMuhammadSarmad/water-quality-monitoring-system/assets/155664288/56a1ec68-aa8e-46cf-b113-2e590a8c04ca)
+
 pH sensor
 
 ![download](https://github.com/SyedMuhammadSarmad/water-quality-monitoring-system/assets/155664288/680d1bb6-1620-4ff3-a042-0905537c4849)
