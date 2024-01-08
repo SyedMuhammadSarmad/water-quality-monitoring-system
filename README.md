@@ -1,4 +1,12 @@
 # water-quality-monitoring-system
+
+Prototype:
+
+![image](https://github.com/SyedMuhammadSarmad/water-quality-monitoring-system/assets/155664288/be853c2f-ca94-47b9-b207-260bb7a9b4e4)
+![image](https://github.com/SyedMuhammadSarmad/water-quality-monitoring-system/assets/155664288/a8562e52-d1d7-4269-a115-5bd91fd5dc16)
+![b80e7e30-5dec-431f-8b55-f6415f3a4b3f](https://github.com/SyedMuhammadSarmad/water-quality-monitoring-system/assets/155664288/77374815-6006-498f-9625-0a176ee1ae7f)
+
+
 ESP32
 
 ![download](https://github.com/SyedMuhammadSarmad/water-quality-monitoring-system/assets/155664288/56a1ec68-aa8e-46cf-b113-2e590a8c04ca)
